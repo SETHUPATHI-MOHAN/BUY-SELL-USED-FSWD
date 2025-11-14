@@ -1,0 +1,5 @@
+{
+  "name": "UpMarket - Used Products Marketplace",
+  "description": "A modern web application designed for buying and selling used products. Users can browse listings, view product details, and list their own items for sale with AI-powered description generation.",
+  "requestFramePermissions": []
+}
